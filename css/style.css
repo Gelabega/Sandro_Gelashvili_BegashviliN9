@@ -1,0 +1,136 @@
+.logo{
+    width: 33px;
+    height: 42px;
+    margin-top: 24px;
+    margin-left: 99px;
+}
+
+.navbar {
+	display: inline-block;
+	vertical-align: middle;
+	font-family: "Jacquard 24", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+    margin-top: 33px;
+    margin-right: 78px;
+}
+
+.header-item {
+	font-size: 17px;
+	color: #636060;
+	font-weight: 400;
+	display: inline-block;
+	margin-left: 50px;
+	
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 33px;
+}
+
+.first-section{
+    background-image:url(../images/background_img.svg);
+    width: 100%;
+    height: 606px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-section h1{
+    width: 625px;
+    height: 91px;
+    font-weight: 700;
+    font-size: 79px;
+    color: #FFFFFF;
+
+}
+
+.first-section p {
+    width: 333px;
+    height: 22px;
+    font-weight: 400;
+    font-size: 19px;
+    color: #FFFFFF;
+    margin-left: 146px;
+}
+
+.second-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side{
+    margin-top: 84px;
+    margin-left: 100px;
+}
+
+.left-side h3{
+    width: 89px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+    margin-bottom: 9px;
+}
+
+.left-side h1 {
+
+    width: 214px;
+    height: 32px;
+    font-weight: 400;
+    font-size: 28px;
+    color: #010101;
+    margin-bottom: 37px;
+
+}
+
+.left-side p{
+    width: 235px;
+    height: 115px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #636060;
+    
+
+}
+
+.right-side{ 
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+    height:700px;
+    margin-top: 84px;
+    margin-right: 98px;
+    
+}
+
+.right-side div{
+    margin-left: 35px;
+}
+
+.right-side div img{
+    width: 286px;
+    height: 195px;
+    margin-bottom: 23px;
+}
+
+.right-side div h1{
+    width: 259px;
+    height: 22px;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+    margin-bottom: 9px;
+}
+
+.right-side div p{
+    width: 286px;
+    height: 63px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+}
